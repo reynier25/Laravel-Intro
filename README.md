@@ -14,5 +14,5 @@ Controller - note the 'byq' action that will have to be refactored out:
 ![controller](https://user-images.githubusercontent.com/44175105/100824681-83799500-340b-11eb-9758-7e8c04b44638.png)
 
 Sample view. This is the view rendered for the route displaying posts sorted by 'content = q'. I used raw SQL since I wasn't sure if I could construct the query through the ORM, and didn't want to spend too much time on it:
-![byqView](https://user-images.githubusercontent.com/44175105/100825163-4c57b380-340c-11eb-8f6e-ef0a81ee062c.png)
+![byqView](https://user-images.githubusercontent.com/44175105/100825818-c0468b80-340d-11eb-8aec-58f01aec8708.png)
 
